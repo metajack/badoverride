@@ -1,0 +1,4 @@
+[submodule "rust-phf"]
+	path = rust-phf
+	url = https://github.com/servo/rust-phf.git
+	branch = servo

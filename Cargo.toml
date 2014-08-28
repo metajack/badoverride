@@ -1,0 +1,7 @@
+[package]
+name = "badoverride"
+version = "0.0.0"
+authors = ["Jack Moffitt"]
+
+[dependencies.string_cache]
+git = "http://github.com/servo/string-cache"
