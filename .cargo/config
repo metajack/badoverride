@@ -1,1 +1,1 @@
-paths = ["/home/jack/src/tmp/badoverride/rust-phf/phf"]
+paths = ["/home/jack/src/tmp/badoverride/rust-phf/phf", "/home/jack/src/tmp/badoverride/rust-phf/phf_mac"]
